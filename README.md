@@ -27,4 +27,3 @@ Bu projede kullanılan ve pekiştirilen temel JavaScript metotları şunlardır:
 
 ---
 
-Bu `README` taslağı, projenizin teknik derinliğini öne çıkarır ve GitHub profilinize değer katar. Bu son adımı da tamamladığınızda projenizi teslim etmeye hazırsınız!
